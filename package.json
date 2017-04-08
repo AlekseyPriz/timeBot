@@ -1,0 +1,15 @@
+{
+  "name" : "timeBot",
+  "version" : "1.0.0",
+  "description" : "",
+  "main" : "vb.js",
+  "scripts" : {
+    "test" : "echo \"Error: no test specified\" && exit 1"
+  },
+  "author" : "AlekseyPriz",
+  "license" : "ISC"
+  "dependencies"  {
+    "dateformat" : "*",
+    "vk-io" : "*"
+  }
+}
